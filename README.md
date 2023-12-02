@@ -1,4 +1,4 @@
-![logo](github-header-image(1).png)
+![logo](github-header-image.png)
 <h1 align="center">Hi 👋, I'm Kavini Tharushika</h1>
 <h3 align="center">A passionate web developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/bfe24c7f7db9b843e8602869974fe2d022441bb5583749ae2f84a85983fa52d4/68747470733a2f2f6d656469612e74656e6f722e636f6d2f696d616765732f37646234656161336534373237326338653538656530313866633339306237642f74656e6f722e676966">
